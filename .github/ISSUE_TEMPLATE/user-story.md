@@ -1,7 +1,7 @@
 ---
-name: User story
-about: User story
-title: ''
+name: User Story
+about: User Story
+title: User Story
 labels: ТРПО
 assignees: RomaSkrund
 
